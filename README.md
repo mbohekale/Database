@@ -1,9 +1,9 @@
 # What is JDBC?
 ### JDBC stands for Java Database Connectivity, which is a standard Java API for databaseindependent connectivity between the Java programming language, and a wide range of databases.
- Making a connection to a database.
- Creating SQL or MySQL statements.
- Executing SQL or MySQL queries in the database.
- Viewing & Modifying the resulting records.
+### . Making a connection to a database.
+### . Creating SQL or MySQL statements.
+### . Executing SQL or MySQL queries in the database.
+### . Viewing & Modifying the resulting records.
 ### Fundamentally, JDBC is a specification that provides a complete set of interfaces that allows for portable access to an underlying database. Java can be used to write different types of executables, such as:
 ### . Java Applications
 ### . Java Applets
@@ -16,6 +16,7 @@
 #### .SQL or MySQL Database
 #### .JDBC API: This provides the application-to-JDBC Manager connection.
 #### . JDBC Driver API: This supports the JDBC Manager-to-Driver Connection.
+https://github.com/mbohekale/Database/tree/main/Images/Images
 
 
 
